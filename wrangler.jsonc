@@ -56,7 +56,7 @@
         {
             "binding": "DB",
             "database_name": "larafeed-template",
-            "database_id": "00000000-0000-0000-0000-000000000010",
+            "database_id": "b48c425b-285f-49df-ad92-7db511be933e",
             "migrations_dir": "migrations"
         }
     ],
